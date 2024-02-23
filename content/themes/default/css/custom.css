@@ -1,0 +1,30 @@
+
+/* Products css */
+#facebook-url, #youtybe-url,#product-size,#unit-of-quantity{
+    display:none;
+}
+
+#product-video-iframe{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    border: none;
+    height: 260px;
+}
+
+#single-product-video-iframe{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    border: none;
+    height: 400px;
+}
+
+form.js_search-form input[type="text"]{
+    font-size: 13px;
+}
+
+#form-country-selector,#form-state-selector,#form-city-selector,#search-form-country-selector,#search-form-state-selector,#search-form-city-selector{
+    font-size: 13px;
+}

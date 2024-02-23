@@ -1,0 +1,17 @@
+
+1. /content/themes/default/templates/_js_files.tpl
+2. /content/themes/default/templates/ajax.product.publisher.tpl
+3. /content/themes/default/templates/ajax.product.editor.tpl
+4. /content/themes/default/templates/_header.tpl
+5. /content/themes/default/templates/_head.tpl
+6. /content/themes/default/css/custom.css
+7. /custom/states.php
+8. /custom/cities.php
+9. /custom/sub-categories.php
+10./includes/assets/js/custom/custom.js
+11./includes/assets/js/core/core.js
+12. /includes/class-user.php
+13. /includes/ajax/posts/product.php
+14. /includes/ajax/posts/post.php
+15. /includes/ajax/posts/edit.php
+16. /market.php
